@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\73a37343351e762e36a6ad06dd5bfb18\appcompat-v7-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b703eeb50455644a9f19e020c78f6a7d\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [org.litepal.android:core:1.4.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8a562f6549f46ef2aeaa20da7ffd4ba9\core-1.4.1\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bf865a1127610b7419ac63a117c1b3c9\animated-vector-drawable-25.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f0620f19cef1d9275682d71ed838bcbf\support-vector-drawable-25.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\37f73cabc8507939a45c45ecc19742ec\support-v4-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db4751a4ba390f9c3747267cf6309fc0\support-fragment-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\88e6e719fa07fc8d7cdb810a026b7c9a\support-media-compat-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\0b7de804165245c8b0e0b9d2d35ca00b\support-core-utils-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4565c941ad18c7f87126655807a93757\support-core-ui-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\43552f570234d6caa3768dd18742f4e6\support-compat-25.2.0\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\73a37343351e762e36a6ad06dd5bfb18\appcompat-v7-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\73a37343351e762e36a6ad06dd5bfb18\appcompat-v7-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b703eeb50455644a9f19e020c78f6a7d\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b703eeb50455644a9f19e020c78f6a7d\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [org.litepal.android:core:1.4.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8a562f6549f46ef2aeaa20da7ffd4ba9\core-1.4.1\AndroidManifest.xml:11:5-14:19
+MERGED from [org.litepal.android:core:1.4.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8a562f6549f46ef2aeaa20da7ffd4ba9\core-1.4.1\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bf865a1127610b7419ac63a117c1b3c9\animated-vector-drawable-25.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bf865a1127610b7419ac63a117c1b3c9\animated-vector-drawable-25.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f0620f19cef1d9275682d71ed838bcbf\support-vector-drawable-25.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f0620f19cef1d9275682d71ed838bcbf\support-vector-drawable-25.2.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\37f73cabc8507939a45c45ecc19742ec\support-v4-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\37f73cabc8507939a45c45ecc19742ec\support-v4-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db4751a4ba390f9c3747267cf6309fc0\support-fragment-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db4751a4ba390f9c3747267cf6309fc0\support-fragment-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\88e6e719fa07fc8d7cdb810a026b7c9a\support-media-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\88e6e719fa07fc8d7cdb810a026b7c9a\support-media-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\0b7de804165245c8b0e0b9d2d35ca00b\support-core-utils-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\0b7de804165245c8b0e0b9d2d35ca00b\support-core-utils-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4565c941ad18c7f87126655807a93757\support-core-ui-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4565c941ad18c7f87126655807a93757\support-core-ui-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\43552f570234d6caa3768dd18742f4e6\support-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\43552f570234d6caa3768dd18742f4e6\support-compat-25.2.0\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:10:9-36
+	android:allowBackup
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:8:9-54
+activity#com.coolweather.android.MainActivity
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.coolweather.android.WeatherActivity
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:22:9-53
+	android:name
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:22:19-50
+service#com.coolweather.android.gson.AutoUpdateService
+ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:24:9-27:47
+	android:enabled
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml:25:13-51
+uses-sdk
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\73a37343351e762e36a6ad06dd5bfb18\appcompat-v7-25.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\73a37343351e762e36a6ad06dd5bfb18\appcompat-v7-25.2.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b703eeb50455644a9f19e020c78f6a7d\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\b703eeb50455644a9f19e020c78f6a7d\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [org.litepal.android:core:1.4.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8a562f6549f46ef2aeaa20da7ffd4ba9\core-1.4.1\AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:1.4.1] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\8a562f6549f46ef2aeaa20da7ffd4ba9\core-1.4.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bf865a1127610b7419ac63a117c1b3c9\animated-vector-drawable-25.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\bf865a1127610b7419ac63a117c1b3c9\animated-vector-drawable-25.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f0620f19cef1d9275682d71ed838bcbf\support-vector-drawable-25.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\f0620f19cef1d9275682d71ed838bcbf\support-vector-drawable-25.2.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\37f73cabc8507939a45c45ecc19742ec\support-v4-25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\37f73cabc8507939a45c45ecc19742ec\support-v4-25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db4751a4ba390f9c3747267cf6309fc0\support-fragment-25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\db4751a4ba390f9c3747267cf6309fc0\support-fragment-25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\88e6e719fa07fc8d7cdb810a026b7c9a\support-media-compat-25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\88e6e719fa07fc8d7cdb810a026b7c9a\support-media-compat-25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\0b7de804165245c8b0e0b9d2d35ca00b\support-core-utils-25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\0b7de804165245c8b0e0b9d2d35ca00b\support-core-utils-25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4565c941ad18c7f87126655807a93757\support-core-ui-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\4565c941ad18c7f87126655807a93757\support-core-ui-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\43552f570234d6caa3768dd18742f4e6\support-compat-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\43552f570234d6caa3768dd18742f4e6\support-compat-25.2.0\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\73a37343351e762e36a6ad06dd5bfb18\appcompat-v7-25.2.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\coolweather-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\coolweather-master\app\src\main\AndroidManifest.xml

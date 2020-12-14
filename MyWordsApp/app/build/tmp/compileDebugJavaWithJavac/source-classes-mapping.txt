@@ -1,0 +1,32 @@
+cn/edu/bistu/cs/se/mywordsapp/Application.java
+ cn.edu.bistu.cs.se.mywordsapp.Application
+cn/edu/bistu/cs/se/mywordsapp/ItemFragment.java
+ cn.edu.bistu.cs.se.mywordsapp.ItemFragment
+ cn.edu.bistu.cs.se.mywordsapp.ItemFragment$OnFragmentInteractionListener
+cn/edu/bistu/cs/se/mywordsapp/NoteDB.java
+ cn.edu.bistu.cs.se.mywordsapp.NoteDB
+cn/edu/bistu/cs/se/mywordsapp/MainActivity.java
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity$1
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity$2
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity$3
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity$4
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity$5
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity$6
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity$7
+ cn.edu.bistu.cs.se.mywordsapp.MainActivity$8
+cn/edu/bistu/cs/se/mywordsapp/BuildConfig.java
+ cn.edu.bistu.cs.se.mywordsapp.BuildConfig
+cn/edu/bistu/cs/se/mywordsapp/DetailFragment.java
+ cn.edu.bistu.cs.se.mywordsapp.DetailFragment
+ cn.edu.bistu.cs.se.mywordsapp.DetailFragment$OnFragmentInteractionListener
+cn/edu/bistu/cs/se/mywordsapp/NoteDBHelper.java
+ cn.edu.bistu.cs.se.mywordsapp.NoteDBHelper
+cn/edu/bistu/cs/se/mywordsapp/DetailActivity.java
+ cn.edu.bistu.cs.se.mywordsapp.DetailActivity
+cn/edu/bistu/cs/se/mywordsapp/contract/notes.java
+ cn.edu.bistu.cs.se.mywordsapp.contract.notes
+ cn.edu.bistu.cs.se.mywordsapp.contract.notes$Note
+ cn.edu.bistu.cs.se.mywordsapp.contract.notes$WordDescription
+cn/edu/bistu/cs/se/mywordsapp/GUID.java
+ cn.edu.bistu.cs.se.mywordsapp.GUID

@@ -1,0 +1,21 @@
+com/example/music/LocalMusicAdapter.java
+ com.example.music.LocalMusicAdapter
+ com.example.music.LocalMusicAdapter$1
+ com.example.music.LocalMusicAdapter$LocalMusicViewHolder
+ com.example.music.LocalMusicAdapter$OnItemClickListener
+com/example/music/BuildConfig.java
+ com.example.music.BuildConfig
+com/example/music/LocalMusicBean.java
+ com.example.music.LocalMusicBean
+com/example/music/MediaScannerNotifier.java
+ com.example.music.MediaScannerNotifier
+ com.example.music.MediaScannerNotifier$OnScanListener
+com/example/music/MainActivity.java
+ com.example.music.MainActivity
+ com.example.music.MainActivity$1
+ com.example.music.MainActivity$2
+ com.example.music.MainActivity$3
+ com.example.music.MainActivity$4
+ com.example.music.MainActivity$5
+ com.example.music.MainActivity$6
+ com.example.music.MainActivity$7

@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.coolweather.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->D:\coolweather-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->D:\coolweather-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\coolweather-master\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\coolweather-master\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->D:\coolweather-master\app\src\main\AndroidManifest.xml:7:5-28:19
+14        android:name="org.litepal.LitePalApplication"
+14-->D:\coolweather-master\app\src\main\AndroidManifest.xml:8:9-54
+15        android:allowBackup="true"
+15-->D:\coolweather-master\app\src\main\AndroidManifest.xml:9:9-35
+16        android:debuggable="true"
+17        android:icon="@mipmap/logo"
+17-->D:\coolweather-master\app\src\main\AndroidManifest.xml:10:9-36
+18        android:label="@string/app_name"
+18-->D:\coolweather-master\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->D:\coolweather-master\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->D:\coolweather-master\app\src\main\AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->D:\coolweather-master\app\src\main\AndroidManifest.xml:14:9-40
+23        <activity android:name="com.coolweather.android.MainActivity" >
+23-->D:\coolweather-master\app\src\main\AndroidManifest.xml:15:9-21:20
+23-->D:\coolweather-master\app\src\main\AndroidManifest.xml:15:19-47
+24            <intent-filter>
+24-->D:\coolweather-master\app\src\main\AndroidManifest.xml:16:13-20:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->D:\coolweather-master\app\src\main\AndroidManifest.xml:17:17-69
+25-->D:\coolweather-master\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->D:\coolweather-master\app\src\main\AndroidManifest.xml:19:17-77
+27-->D:\coolweather-master\app\src\main\AndroidManifest.xml:19:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity android:name="com.coolweather.android.WeatherActivity" />
+30-->D:\coolweather-master\app\src\main\AndroidManifest.xml:22:9-53
+30-->D:\coolweather-master\app\src\main\AndroidManifest.xml:22:19-50
+31
+32        <service
+32-->D:\coolweather-master\app\src\main\AndroidManifest.xml:24:9-27:47
+33            android:name="com.coolweather.android.gson.AutoUpdateService"
+33-->D:\coolweather-master\app\src\main\AndroidManifest.xml:25:13-51
+34            android:enabled="true"
+34-->D:\coolweather-master\app\src\main\AndroidManifest.xml:26:13-35
+35            android:exported="true" />
+35-->D:\coolweather-master\app\src\main\AndroidManifest.xml:27:13-36
+36    </application>
+37
+38</manifest>

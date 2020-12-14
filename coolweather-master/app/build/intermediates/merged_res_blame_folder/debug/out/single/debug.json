@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_aqi.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\aqi.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_title.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\title.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.jpg.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.jpg"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_forecast.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\forecast.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.jpg.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-mdpi\\logo.jpg"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.jpg.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xhdpi\\logo.jpg"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.jpg.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-hdpi\\logo.jpg"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.jpg.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.jpg"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_weather.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\activity_weather.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.jpg.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\drawable\\ic_back.jpg"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_now.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\now.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_choose_area.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\choose_area.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_forecast_item.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\forecast_item.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_suggestion.xml.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\layout\\suggestion.xml"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.jpg.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\drawable\\ic_home.jpg"
+    },
+    {
+        "merged": "D:\\coolweather-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coolweather-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

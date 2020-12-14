@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_searchterm.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\layout\\searchterm.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_contextmenu_listview.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\menu\\contextmenu_listview.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_detail.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_insert.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\layout\\insert.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_content_main.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\layout-land\\content_main.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\MyWordsApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MyWordsApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

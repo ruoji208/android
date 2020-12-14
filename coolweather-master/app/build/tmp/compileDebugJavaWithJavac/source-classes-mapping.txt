@@ -1,0 +1,54 @@
+com/coolweather/android/ChooseAreaFragment.java
+ com.coolweather.android.ChooseAreaFragment
+ com.coolweather.android.ChooseAreaFragment$1
+ com.coolweather.android.ChooseAreaFragment$2
+ com.coolweather.android.ChooseAreaFragment$3
+ com.coolweather.android.ChooseAreaFragment$3$1
+ com.coolweather.android.ChooseAreaFragment$3$2
+com/coolweather/android/gson/Now.java
+ com.coolweather.android.gson.Now
+ com.coolweather.android.gson.Now$More
+com/coolweather/android/gson/Suggestion.java
+ com.coolweather.android.gson.Suggestion
+ com.coolweather.android.gson.Suggestion$CarWash
+ com.coolweather.android.gson.Suggestion$Comfort
+ com.coolweather.android.gson.Suggestion$Sport
+com/coolweather/android/db/City.java
+ com.coolweather.android.db.City
+com/coolweather/android/MainActivity.java
+ com.coolweather.android.MainActivity
+com/coolweather/android/WeatherActivity.java
+ com.coolweather.android.WeatherActivity
+ com.coolweather.android.WeatherActivity$1
+ com.coolweather.android.WeatherActivity$2
+ com.coolweather.android.WeatherActivity$3
+ com.coolweather.android.WeatherActivity$3$1
+ com.coolweather.android.WeatherActivity$3$2
+ com.coolweather.android.WeatherActivity$4
+ com.coolweather.android.WeatherActivity$4$1
+com/coolweather/android/gson/AQI.java
+ com.coolweather.android.gson.AQI
+ com.coolweather.android.gson.AQI$AQICity
+com/coolweather/android/gson/Basic.java
+ com.coolweather.android.gson.Basic
+ com.coolweather.android.gson.Basic$Update
+com/coolweather/android/gson/Forecast.java
+ com.coolweather.android.gson.Forecast
+ com.coolweather.android.gson.Forecast$More
+ com.coolweather.android.gson.Forecast$Temperature
+com/coolweather/android/db/Province.java
+ com.coolweather.android.db.Province
+com/coolweather/android/BuildConfig.java
+ com.coolweather.android.BuildConfig
+com/coolweather/android/db/County.java
+ com.coolweather.android.db.County
+com/coolweather/android/util/Utility.java
+ com.coolweather.android.util.Utility
+com/coolweather/android/util/HttpUtil.java
+ com.coolweather.android.util.HttpUtil
+com/coolweather/android/gson/AutoUpdateService.java
+ com.coolweather.android.gson.AutoUpdateService
+ com.coolweather.android.gson.AutoUpdateService$1
+ com.coolweather.android.gson.AutoUpdateService$2
+com/coolweather/android/gson/Weather.java
+ com.coolweather.android.gson.Weather
